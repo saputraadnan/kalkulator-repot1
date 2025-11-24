@@ -97,7 +97,7 @@ def kalkulator():
                         continue
                     break
                 except ValueError:
-                    print("HANYA ANGKA!")
+                    print("PASTIKAN HANYA ANGKA!")
                     continue # kembali ke loop masukkan angka2 jika inputan bukan angka
             
             # perhitungan
