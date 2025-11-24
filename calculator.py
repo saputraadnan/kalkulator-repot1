@@ -114,7 +114,7 @@ def kalkulator():
                 tanya = input("Ingin lagi? (y/n): ").lower()
                 
                 if tanya == "n":
-                    print("Terimakasih, sampai jumpa")
+                    print("Terimakasih, sampai jumpa!")
                     return
                 elif tanya == "y":
                     break
